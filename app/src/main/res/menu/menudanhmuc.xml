@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Bàn ghế"
+        android:id="@+id/vhdd"/>
+    <item android:title="Tủ Giường"
+        android:id="@+id/gkgtbt"/>
+    <item android:title="Nội Thất Gia Đình"
+    android:id="@+id/pl"/>
+    <item android:title="Nội Thất Công Nghiệp"
+        android:id="@+id/tpvhvn"/>
+    <item android:title="Các thể loại khác"
+        android:id="@+id/tlkhac"/>
+
+
+</menu>
